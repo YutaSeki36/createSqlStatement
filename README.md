@@ -1,0 +1,2 @@
+# createSqlStatement
+SQLのcreate文を自動生成するスクリプト
